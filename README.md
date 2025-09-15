@@ -28,9 +28,8 @@ Então no CMD: "cd C:\meu_bot_discord" e depois "node index.mjs"
 ---------
 para burlar o problema do bot tocar uma musica do youtube eu fiz ele tocar um audio baixado convertido de wedm para mp3;
 entao ele baixa e toca direto do aparelho, salvando temporariamente esses audios em uma pasta C:\meu_bot_discord\CACHE;
-
-
-======================================================================================================
+---------
 se conseguir arrumar, poderia comentar essa correção?
 é livre para usar ele como quiser, só deixa referenciado quem editar;
 eu não sou muito organizado e o TDAH nao ajuda, espero que entenda como esse código funiona;
+ATT: Bryandmm (criador);
