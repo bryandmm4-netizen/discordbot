@@ -11,7 +11,8 @@ npm install discord.js @discordjs/voice dotenv
 npm install ytdl-core ytpl yt-search
 
 yt-dlp: https://github.com/yt-dlp/yt-dlp/releases/latest
-Salve como yt-dlp.exe em uma pasta no PATH (por exemplo: C:\Windows\System32) ou deixe na mesma pasta do "index.mjs";
+Salve como yt-dlp.exe em uma pasta no PATH (por exemplo: C:\Windows\System32) 
+ou deixe na mesma pasta do "index.mjs";
 ffmpeg: https://ffmpeg.org
 
 Precisa de um arquivo com o exato nome ".env" junto na pasta; Nele tem a chave do bot e precisa colocar tambem o ID do servidor para ser utilizado;
