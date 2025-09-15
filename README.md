@@ -1,12 +1,12 @@
+----------
 node.mjs - use como nome do arquivo;
 audio player for discord com: yt-dlp; discord.py; ffmpeg;
-
+----------
 codigo feito como um "passa tempo";
 existem alguns problemas com o player que esta se perdendo apos algumas musicas tocadas;
 ele corta uma musica no meio e pula para a proxima, 
 estou tentando resolver, mas com pouco tempo para fazer;
-
-
+----------
 é preciso instalar algumas coisas para usar:
 npm install discord.js @discordjs/voice dotenv
 npm install ytdl-core ytpl yt-search
@@ -33,3 +33,4 @@ se conseguir arrumar, poderia comentar essa correção?
 é livre para usar ele como quiser, só deixa referenciado quem editar;
 eu não sou muito organizado e o TDAH nao ajuda, espero que entenda como esse código funiona;
 ATT: Bryandmm (criador);
+----------
